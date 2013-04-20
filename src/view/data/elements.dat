@@ -1,0 +1,1857 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+
+	<Element name="Agua" >
+	    <Combination pair="Fuego">
+			<Results>Vapor</Results>
+		</Combination>
+		<Combination pair="Arena">
+			<Results>Playa</Results>
+		</Combination>		
+		<Combination pair="Metal">
+			<Results>Herrumbre</Results>
+		</Combination>		
+		<Combination pair="Polvo">
+			<Results>Fango</Results>
+		</Combination>	
+		<Combination pair="Tierra">
+			<Results>Pantano</Results>
+		</Combination>
+		<Combination pair="Bacteria">
+			<Results>Plancton</Results>
+		</Combination>		
+		<Combination pair="Aire">
+			<Results>Lluvia</Results>
+		</Combination>		
+		<Combination pair="Agua">
+			<Results>Mar</Results>
+		</Combination>			
+		<Combination pair="Electricidad">
+			<Results>Oxígeno, Hidrógeno</Results>
+		</Combination>	
+		<Combination pair="Bestia">
+			<Results>Ballena</Results>
+		</Combination>	
+		<Combination pair="Semilla">
+			<Results>Flor</Results>
+		</Combination>			
+	</Element>	
+	
+	<Element name="Alcohólico">
+	</Element>
+	
+	<Element name="Lámpara">
+	</Element>
+
+	<Element name="Francia">
+	</Element>		
+	
+	<Element name="Champagne">
+		<Combination pair="País">
+			<Results>Francia</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Dióxido de Carbóno">
+		<Combination pair="Agua">
+			<Results>Agua gaseada</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Agua gaseada">
+		<Combination pair="Azúcar">
+			<Results>CocaCola</Results>
+		</Combination>		
+		<Combination pair="Vino">
+			<Results>Champagne</Results>
+		</Combination>			
+	</Element>
+	
+	<Element name="Hombre lobo">
+	</Element>	
+	
+	<Element name="Requesón">
+		<Combination pair="Fuego">
+			<Results>Queso</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Suero">
+	</Element>		
+	
+	<Element name="Dieta">
+	</Element>	
+	
+	<Element name="Barbacoa">
+	</Element>		
+	
+	<Element name="Yogur">
+		<Combination pair="Hombre">
+			<Results>Dieta</Results>
+		</Combination>		
+		<Combination pair="Leche">
+			<Results>Leche agria</Results>
+		</Combination>		
+	</Element>
+
+	<Element name="Yogur">
+	</Element>	
+	
+	<Element name="Ambulancia">
+	</Element>		
+	
+	<Element name="Tocino">
+	</Element>		
+	
+	<Element name="Leche">
+		<Combination pair="Bacteria">
+			<Results>Yogur</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Ganado">
+		<Combination pair="Hombre">
+			<Results>Leche, Carne, Lana, Hombre</Results>
+		</Combination>		
+		<Combination pair="Fango">
+			<Results>Cerdo</Results>
+		</Combination>
+	</Element>	
+
+	<Element name="Aluminio">
+		<Combination pair="Cristal">
+			<Results>Espejo</Results>
+		</Combination>		
+		<Combination pair="Oxígeno">
+			<Results>Rubí</Results>
+		</Combination>			
+	</Element>
+	
+	<Element name="Rubí">
+	</Element>
+	
+	<Element name="Alga">
+		<Combination pair="Tierra">
+			<Results>Hongo</Results>
+		</Combination>	
+		<Combination pair="Fuego">
+			<Results>Yodo</Results>
+		</Combination>			
+		<Combination pair="Pantano">
+			<Results>Moho</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Flor">
+		<Combination pair="Sol">
+			<Results>Girasol</Results>
+		</Combination>		
+		<Combination pair="Insecto">
+			<Results>Abeja</Results>
+		</Combination>				
+	</Element>	
+	
+	<Element name="Girasol">
+	</Element>	
+
+	<Element name="Abeja">
+	</Element>	
+	
+	<Element name="Escorpión">
+		<Combination pair="Agua">
+			<Results>Langosta</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Estatua">
+		<Combination pair="Estados Unidos">
+			<Results>Estatua de la libertad</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Estatua de la libertad">
+	</Element>		
+	
+	<Element name="Mario">
+	</Element>	
+
+	<Element name="Ropa">
+	</Element>	
+	
+	<Element name="Ratón">
+	</Element>		
+	
+	<Element name="Uvas">
+		<Combination pair="Alcohol">
+			<Results>Vino</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Vino">
+	</Element>	
+	
+	<Element name="Tormenta de arena">
+	</Element>	
+	
+	<Element name="Tela">
+		<Combination pair="Hombre">
+			<Results>Ropa</Results>
+		</Combination>	
+		<Combination pair="Pluma">
+			<Results>Almohada</Results>
+		</Combination>	
+		<Combination pair="Gusano">
+			<Results>Seda</Results>
+		</Combination>			
+	</Element>	
+	
+	<Element name="Seda">
+	</Element>	
+	
+	<Element name="Tren">
+	</Element>			
+
+	<Element name="Insecto">
+		<Combination pair="Estiercol">
+			<Results>Escarabajo pelotero</Results>
+		</Combination>		
+		<Combination pair="Arena">
+			<Results>Escorpión</Results>
+		</Combination>	
+	</Element>	
+	
+	<Element name="Desierto">
+		<Combination pair="Árbol">
+			<Results>Cactus</Results>
+		</Combination>	
+	</Element>	
+	
+	<Element name="Armas de fuego">
+		<Combination pair="Hombre">
+			<Results>Francotirador</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Arcilla">
+		<Combination pair="Hombre">
+			<Results>Cerámica</Results>
+		</Combination>		
+		<Combination pair="Fuego">
+			<Results>Ladrillo</Results>
+		</Combination>		
+	</Element>	
+
+	<Element name="Yoshi">
+	</Element>	
+
+	<Element name="Guerrero">
+	</Element>			
+	
+	<Element name="Héroe">
+	</Element>		
+	
+	<Element name="Cerámica">
+	</Element>
+	
+	<Element name="Caviar">
+	</Element>	
+	
+	<Element name="Francotirador">
+	</Element>		
+	
+	<Element name="Armas envenenadas">
+		<Combination pair="Hombre">
+			<Results>Asesino</Results>
+		</Combination>	
+	</Element>		
+
+	<Element name="Pez">
+		<Combination pair="Pez">
+			<Results>Caviar</Results>
+		</Combination>	
+		<Combination pair="Cazador">
+			<Results>Pescador</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Hongo">
+		<Combination pair="Vida">
+			<Results>1UP</Results>
+		</Combination>		
+		<Combination pair="Herramienta">
+			<Results>Veneno</Results>
+		</Combination>			
+	</Element>			
+	
+	<Element name="1UP">
+		<Combination pair="Hombre">
+			<Results>Mario</Results>
+		</Combination>
+		<Combination pair="Huevo">
+			<Results>Yoshi</Results>
+		</Combination>
+	</Element>		
+	
+	<Element name="Arena">
+		<Combination pair="Presión">
+			<Results>Silicio</Results>
+		</Combination>	
+		<Combination pair="Tormenta">
+			<Results>Tormenta de arena</Results>
+		</Combination>	
+		<Combination pair="Fuego">
+			<Results>Cristal</Results>
+		</Combination>	
+		<Combination pair="Arena">
+			<Results>Desierto</Results>
+		</Combination>	
+		<Combination pair="Pantano">
+			<Results>Arcilla</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Aire" >
+		<Combination pair="Vapor">
+			<Results>Nube</Results>
+		</Combination>		
+		<Combination pair="Nube">
+			<Results>Cielo</Results>
+		</Combination>			
+		<Combination pair="Gusano">
+			<Results>Mariposa</Results>
+		</Combination>		
+		<Combination pair="Tierra">
+			<Results>Polvo</Results>
+		</Combination>
+		<Combination pair="Fuego">
+			<Results>Energía</Results>
+		</Combination>	
+		<Combination pair="Aire">
+			<Results>Viento</Results>
+		</Combination>
+		<Combination pair="Energía">
+			<Results>Tormenta</Results>
+		</Combination>	        	
+	</Element>	
+	
+	<Element name="Vinagre" >
+	</Element>	
+	
+	<Element name="Escarabajo pelotero">
+	</Element>		
+	
+	<Element name="Mariposa" >
+	</Element>		
+
+	<Element name="Alcohol" >
+		<Combination pair="Oxígeno">
+			<Results>Vinagre</Results>
+		</Combination>		
+		<Combination pair="Flor">
+			<Results>Perfume</Results>
+		</Combination>		
+		<Combination pair="Agua">
+			<Results>Vodka</Results>
+		</Combination>	
+		<Combination pair="Fuego">
+			<Results>Molotov</Results>
+		</Combination>			
+	</Element>	
+	
+	<Element name="Avión">
+		<Combination pair="Metal">
+			<Results>Aluminio</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Armas">
+		<Combination pair="Cazador">
+			<Results>Guerrero</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Elefante">
+	</Element>		
+	
+	<Element name="Nube">
+	</Element>		
+	
+	<Element name="Perfume">
+	</Element>	
+
+	<Element name="Papá Noel">
+	</Element>		
+
+	<Element name="Anciano">
+		<Combination pair="Árbol de navidad">
+			<Results>Papá Noel</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Semilla">
+	</Element>
+	
+	<Element name="Dilema">
+	</Element>	
+	
+	<Element name="Tumba">
+		<Combination pair="Tumba">
+			<Results>Cementerio</Results>
+		</Combination>		
+	</Element>	
+
+	<Element name="Cementerio">
+	</Element>
+	
+	<Element name="Tormenta electrica">
+	</Element>	
+	
+	<Element name="Cadáver">
+		<Combination pair="Electricidad">
+			<Results>Frankestein</Results>
+		</Combination>		
+		<Combination pair="Tierra">
+			<Results>Tumba</Results>
+		</Combination>		
+		<Combination pair="Madera">
+			<Results>Ataúd</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Bacteria">
+		<Combination pair="Aire">
+			<Results>Gripe</Results>
+		</Combination>		
+	</Element>		
+
+	<Element name="Oso">
+	</Element>
+	
+	<Element name="Caracol">
+	</Element>	
+	
+	<Element name="Sol">	
+		<Combination pair="Espejo">
+			<Results>Luna</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Bar">	
+	</Element>		
+	
+	<Element name="Cielo">	
+		<Combination pair="Luz">
+			<Results>Sol</Results>
+		</Combination>		
+		<Combination pair="Queso">
+			<Results>Luna</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Lana">	
+		<Combination pair="Herramienta">
+			<Results>Tela</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Perla">	
+	</Element>	
+	
+	<Element name="Momia">	
+	</Element>		
+	
+	<Element name="Zombie">	
+		<Combination pair="Papel">
+			<Results>Momia</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Bestia">
+		<Combination pair="Vida">
+			<Results>Hombre</Results>
+		</Combination>	
+		<Combination pair="Cazador">
+			<Results>Sangre, Carne, Lana</Results>
+		</Combination>			
+		<Combination pair="Bosque">
+			<Results>Oso</Results>
+		</Combination>			
+		<Combination pair="Árbol">
+			<Results>Panda</Results>
+		</Combination>
+		<Combination pair="Desierto">
+			<Results>Camello</Results>
+		</Combination>				
+		<Combination pair="Hombre">
+			<Results>Ganado, Hombre</Results>
+		</Combination>			
+	</Element>			
+	
+	<Element name="Ozono">
+	</Element>	
+	
+	<Element name="Energía" >
+		<Combination pair="Pantano">
+			<Results>Vida</Results>
+		</Combination>	
+	</Element>	
+	
+	<Element name="Electricidad">
+		<Combination pair="Hombre">
+			<Results>Cadáver</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Fuego" >
+		<Combination pair="Hierba">
+			<Results>Tabaco</Results>
+		</Combination>		
+		<Combination pair="Cazador">
+			<Results>Bombero</Results>
+		</Combination>	
+        <Combination pair="Tiempo">
+			<Results>Incendio</Results>
+		</Combination>			
+	</Element>
+		
+	<Element name="Gripe">
+		<Combination pair="Pollo">
+			<Results>Gripe aviaria</Results>
+		</Combination>		
+		<Combination pair="Pájaro">
+			<Results>Gripe aviaria</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Gripe aviaria">
+	</Element>		
+	
+	<Element name="Fruta">
+		<Combination pair="Presión">
+			<Results>Jugo</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Veneno">
+		<Combination pair="Armas">
+			<Results>Armas envenenadas</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Asesino">
+	</Element>		
+	
+	<Element name="Jugo">
+	</Element>		
+	
+	<Element name="Velero grande">
+	</Element>		
+	
+	<Element name="Queso">
+		<Combination pair="Bestia">
+			<Results>Ratón</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Gusano" >
+		<Combination pair="Pantano">
+			<Results>Serpiente</Results>
+		</Combination>		
+		<Combination pair="Tierra">
+			<Results>Insecto</Results>
+		</Combination>			
+	</Element>	
+
+	<Element name="Dinosaurio">
+		<Combination pair="Tierra">
+			<Results>Fósil</Results>
+		</Combination>		
+		<Combination pair="Fuego">
+			<Results>Dragón</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Fósil">
+		<Combination pair="Presión">
+			<Results>Kerógeno</Results>
+		</Combination>	
+		<Combination pair="Vida">
+			<Results>Zombie</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Kerógeno">
+		<Combination pair="Presión">
+			<Results>Asfalto</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Asfalto">
+		<Combination pair="Presión">
+			<Results>Petróleo</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Petróleo">
+		<Combination pair="Presión">
+			<Results>Gasolina</Results>
+		</Combination>	
+	</Element>	
+	
+	<Element name="Gasolina">
+		<Combination pair="Fuego">
+			<Results>Explosión</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Huevo" >	
+		<Combination pair="Arena">
+			<Results>Tortuga</Results>
+		</Combination>		
+		<Combination pair="Pollo">
+			<Results>Dilema</Results>
+		</Combination>	
+		<Combination pair="Fuego">
+			<Results>Huevo frito</Results>
+		</Combination>		
+		<Combination pair="Aire">
+			<Results>Pájaro</Results>
+		</Combination>			
+		<Combination pair="Tierra">
+			<Results>Dinosaurio</Results>
+		</Combination>				
+	</Element>		
+	
+	<Element name="Huevo frito">
+	</Element>
+
+	<Element name="Jabón">
+	</Element>	
+	
+	<Element name="Campesino">
+	</Element>	
+	
+	<Element name="Harina">
+		<Combination pair="Agua">
+			<Results>Masa</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Masa">
+		<Combination pair="Fuego">
+			<Results>Pan</Results>
+		</Combination>	
+		<Combination pair="Queso">
+			<Results>Pizza</Results>
+		</Combination>	
+	</Element>	
+
+	<Element name="Pan">
+		<Combination pair="Barbacoa">
+			<Results>Sandwich</Results>
+		</Combination>		
+		<Combination pair="Fuego">
+			<Results>Tostadas</Results>
+		</Combination>				
+	</Element>		
+	
+	<Element name="Sandwich">
+	</Element>	
+	
+	<Element name="Obesidad">
+		<Combination pair="Dieta">
+			<Results>Hombre</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="McDonalds">
+		<Combination pair="Hombre">
+			<Results>Obesidad</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="CocaCola">
+		<Combination pair="País">
+			<Results>Estados Unidos</Results>
+		</Combination>		
+		<Combination pair="Sandwich">
+			<Results>McDonalds</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Pizza">
+		<Combination pair="País">
+			<Results>Italia</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Estados Unidos">
+	</Element>		
+	
+	<Element name="Italia">
+	</Element>		
+	
+	<Element name="Trigo">
+		<Combination pair="Piedra">
+			<Results>Harina</Results>
+		</Combination>	
+		<Combination pair="Alcohol">
+			<Results>Cerveza</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Cerveza">
+		<Combination pair="Casa">
+			<Results>Bar</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Moto">
+	</Element>		
+	
+	<Element name="Bicicleta">
+		<Combination pair="Motor de combustión">
+			<Results>Moto</Results>
+		</Combination>	
+	</Element>			
+	
+	<Element name="Campo de arado">
+		<Combination pair="Semilla">
+			<Results>Trigo</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Frankestein">
+	</Element>		
+	
+	<Element name="Yodo">
+	</Element>		
+	
+	<Element name="Herramienta">
+		<Combination pair="Metal">
+			<Results>Armas</Results>
+		</Combination>	
+		<Combination pair="Tierra">
+			<Results>Campo de arado, Agricultura</Results>
+		</Combination>	
+		<Combination pair="Madera">
+			<Results>Rueda</Results>
+		</Combination>
+        <Combination pair="Petróleo">
+			<Results>Plástico</Results>
+		</Combination>		
+		<Combination pair="Algodón">
+			<Results>Tela</Results>
+		</Combination>
+	</Element>		
+	
+	<Element name="Tiempo">
+	</Element>	
+
+	<Element name="Fango">
+	</Element>		
+	
+	<Element name="Leche agria">
+		<Combination pair="Fuego">
+			<Results>Requesón, Suero</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Pluma">
+		<Combination pair="Papel">
+			<Results>Libro</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Carne">
+		<Combination pair="Fuego">
+			<Results>Barbacoa</Results>
+		</Combination>	
+		<Combination pair="Herramienta">
+			<Results>Cuchillo</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Ataúd">
+	</Element>		
+	
+	<Element name="Cuchillo">
+		<Combination pair="Herramienta">
+			<Results>Navaja suiza</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Sangre">
+	</Element>	
+	
+	<Element name="Ladrillo">
+	</Element>	
+	
+	<Element name="Papel moneda">
+	</Element>		
+	
+	<Element name="Dr. Zoidberg">
+		<Combination pair="Enfermo">
+			<Results>Dr. Zoidberg, Cadáver</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Langosta">
+		<Combination pair="Doctor">
+			<Results>Dr. Zoidberg</Results>
+		</Combination>		
+	</Element>			
+	
+	<Element name="Moneda">
+		<Combination pair="Papel">
+			<Results>Papel moneda</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Plata">
+		<Combination pair="Presión">
+			<Results>Moneda</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Albert Eninstein">
+	</Element>	
+	
+	<Element name="Doctor">
+		<Combination pair="Doctor">
+			<Results>Hospital</Results>
+		</Combination>		
+	</Element>	
+
+	<Element name="Arcoiris">
+	</Element>		
+	
+	<Element name="Científico">
+		<Combination pair="Energía">
+			<Results>Albert Eninstein</Results>
+		</Combination>	
+		<Combination pair="Dilema">
+			<Results>Filosofía</Results>
+		</Combination>	
+		<Combination pair="Hospital">
+			<Results>Doctor</Results>
+		</Combination>	
+		<Combination pair="Enfermo">
+			<Results>Doctor</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Libro">
+		<Combination pair="Libro">
+			<Results>Biblioteca</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Biblioteca">
+		<Combination pair="Hombre">
+			<Results>Científico</Results>
+		</Combination>		
+	</Element>			
+
+	<Element name="Reloj">
+	</Element>	
+	
+	<Element name="Sonido">
+	</Element>		
+	
+	<Element name="Luz">
+	</Element>		
+	
+	<Element name="Reloj de arena">
+		<Combination pair="Vida">
+			<Results>Tiempo</Results>
+		</Combination>		
+		<Combination pair="Electricidad">
+			<Results>Reloj</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Cristal">
+		<Combination pair="Arena">
+			<Results>Reloj de arena</Results>
+		</Combination>		
+		<Combination pair="Agua">
+			<Results>Hielo</Results>
+		</Combination>		
+		<Combination pair="Fuego">
+			<Results>Lámpara</Results>
+		</Combination>			
+		<Combination pair="Electricidad">
+			<Results>Bombillo</Results>
+		</Combination>				
+	</Element>
+	
+	<Element name="Bombillo">
+		<Combination pair="Electricidad">
+			<Results>Luz</Results>
+		</Combination>		
+		<Combination pair="Hombre">
+			<Results>Idea</Results>
+		</Combination>					
+	</Element>	
+	
+	<Element name="Idea">
+		<Combination pair="Sonido">
+			<Results>Música</Results>
+		</Combination>
+        <Combination pair="Tela">
+			<Results>Moda</Results>
+		</Combination>        		
+	</Element>	
+	
+	<Element name="Automóvil">
+		<Combination pair="Hospital">
+			<Results>Ambulancia</Results>
+		</Combination>
+    <Combination pair="Agricultura">
+			<Results>Tractor</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Música">
+	</Element>	
+	
+	<Element name="Tabaco">
+	</Element>		
+
+	<Element name="Enfermo">
+	</Element>
+	
+	<Element name="Camello">
+	</Element>	
+	
+	<Element name="Hombre">
+		<Combination pair="Sangre">
+			<Results>Vampiro</Results>
+		</Combination>	
+		<Combination pair="Gripe">
+			<Results>Enfermo</Results>
+		</Combination>			
+		<Combination pair="Armas">
+			<Results>Cazador</Results>
+		</Combination>		
+		<Combination pair="Semilla">
+			<Results>Campesino</Results>
+		</Combination>	
+		<Combination pair="Metal">
+			<Results>Herramienta</Results>
+		</Combination>		
+		<Combination pair="Alcohol">
+			<Results>Alcohólico</Results>
+		</Combination>	
+		<Combination pair="Fuego">
+			<Results>Cadáver</Results>
+		</Combination>			
+		<Combination pair="Vodka">
+			<Results>Alcohólico</Results>
+		</Combination>			
+		<Combination pair="Oxígeno">
+			<Results>Dióxido de Carbóno, Hombre</Results>
+		</Combination>			
+		<Combination pair="Tiempo">
+			<Results>Anciano</Results>
+		</Combination>		
+		<Combination pair="Barco de madera">
+			<Results>Marinero</Results>
+		</Combination>			
+		<Combination pair="Bote">
+			<Results>Marinero</Results>
+		</Combination>	
+		<Combination pair="Velero grande">
+			<Results>Marinero</Results>
+		</Combination>
+		<Combination pair="Velero pequeño">
+			<Results>Marinero</Results>
+		</Combination>
+        <Combination pair="Fenómeno">
+			<Results>Religión</Results>
+		</Combination>
+        <Combination pair="Idea">
+			<Results>Ciencia</Results>
+		</Combination>
+		<Combination pair="Luz">
+			<Results>Imagen</Results>
+		</Combination>
+		
+	</Element>		
+	
+	<Element name="Marinero">
+	</Element>		
+	
+	<Element name="Árbol de navidad">
+	</Element>			
+	
+	<Element name="Hidrógeno">
+	</Element>		
+	
+	<Element name="Lava" >	
+		<Combination pair="Aire">
+			<Results>Piedra</Results>
+		</Combination>	
+		<Combination pair="Presión">
+			<Results>Volcán</Results>
+		</Combination>		
+		<Combination pair="Agua">
+			<Results>Piedra</Results>
+		</Combination>			
+	</Element>			
+	
+	<Element name="Lagartija">
+		<Combination pair="Fuego">
+			<Results>Salamandra</Results>
+		</Combination>		
+		<Combination pair="Tierra">
+			<Results>Bestia</Results>
+		</Combination>	
+		<Combination pair="Pantano">
+			<Results>Rana</Results>
+		</Combination>
+	</Element>		
+	
+	<Element name="Rana" >
+	</Element>	
+	
+	<Element name="Molotov" >
+	</Element>	
+	
+	<Element name="Navaja suiza" >
+	</Element>		
+	
+	<Element name="Isla" >
+	</Element>		
+	
+	<Element name="Luna" >
+		<Combination pair="Metal">
+			<Results>Plata</Results>
+		</Combination>		
+	</Element>			
+	
+	<Element name="Mar">
+		<Combination pair="Tierra">
+			<Results>Isla</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Pinguino">
+	</Element>		
+	
+	<Element name="Microchip">
+	</Element>	
+	
+	<Element name="Metal">
+		<Combination pair="Pájaro">
+			<Results>Avión</Results>
+		</Combination>	
+		<Combination pair="Energía">
+			<Results>Electricidad</Results>
+		</Combination>		
+		<Combination pair="Aire">
+			<Results>Sonido</Results>
+		</Combination>	
+	</Element>			
+	
+	<Element name="Oxígeno">
+		<Combination pair="Hidrógeno">
+			<Results>OxiHidrógeno</Results>
+		</Combination>			
+		<Combination pair="Electricidad">
+			<Results>Ozono</Results>
+		</Combination>		
+		<Combination pair="Metal">
+			<Results>Herrumbre</Results>
+		</Combination>			
+	</Element>	
+
+	<Element name="Herrumbre">
+	</Element>	
+	
+	<Element name="Ave Fenix">
+	</Element>		
+	
+	<Element name="OxiHidrógeno">
+	</Element>	
+	
+	<Element name="Gallinero">
+	</Element>	
+	
+	<Element name="Tormenta">
+		<Combination pair="Electricidad">
+			<Results>Tormenta electrica</Results>
+		</Combination>	
+		<Combination pair="Agua">
+			<Results>Tifón</Results>
+		</Combination>	
+		<Combination pair="Luz">
+			<Results>Arcoiris</Results>
+		</Combination>
+		<Combination pair="Sol">
+			<Results>Tormenta solar</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Pollo" >	
+		<Combination pair="Fuego">
+			<Results>Pollo frito</Results>
+		</Combination>	
+		<Combination pair="Lava">
+			<Results>Pollo frito</Results>
+		</Combination>		
+		<Combination pair="Casa">
+			<Results>Gallinero</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Piedra" >	
+		<Combination pair="Vida">
+			<Results>Huevo</Results>
+		</Combination>	
+		<Combination pair="Herramienta">
+			<Results>Estatua</Results>
+		</Combination>	
+		<Combination pair="Fuego">
+			<Results>Metal</Results>
+		</Combination>			
+		<Combination pair="Mar">
+			<Results>Arena</Results>
+		</Combination>	
+	</Element>			
+	
+	<Element name="Presión" >
+	</Element>	
+	
+	<Element name="Hielo" >
+	</Element>		
+	
+	<Element name="Tortuga" >
+	</Element>	
+	
+	<Element name="Explosión" >
+	</Element>	
+
+	<Element name="Ectoplasma" >
+	</Element>
+	
+	<Element name="Cazafantasmas" >
+	</Element>	
+	
+	<Element name="Playa" >
+	</Element>		
+	
+	<Element name="Fantasma">
+		<Combination pair="Energía">
+			<Results>Ectoplasma</Results>
+		</Combination>		
+		<Combination pair="Cazador">
+			<Results>Cazafantasmas</Results>
+		</Combination>		
+	</Element>			
+
+	<Element name="Pólvora" >
+		<Combination pair="Armas">
+			<Results>Armas de fuego</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Polvo" >
+		<Combination pair="Fuego">
+			<Results>Pólvora</Results>
+		</Combination>	
+		<Combination pair="Vida">
+			<Results>Fantasma</Results>
+		</Combination>	
+	</Element>			
+	
+	<Element name="Pollo frito">
+	</Element>		
+	
+	<Element name="Pescador">
+	</Element>		
+	
+	<Element name="Espejo">
+	</Element>		
+	
+	<Element name="Cactus">
+	</Element>	
+	
+	<Element name="Anguila eléctrica">
+	</Element>	
+	
+	<Element name="Casa">
+		<Combination pair="Cristal">
+			<Results>Rascacielo</Results>
+		</Combination>	
+		<Combination pair="Fósil">
+			<Results>Museo</Results>
+		</Combination>	
+		<Combination pair="Enfermo">
+			<Results>Hospital</Results>
+		</Combination>			
+	</Element>	
+	
+	<Element name="Hospital">
+	</Element>		
+	
+	<Element name="Planeta">
+	</Element>		
+	
+	<Element name="Bombero">
+	</Element>		
+	
+	<Element name="Continente">
+		<Combination pair="Continente">
+			<Results>Planeta</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="País">
+		<Combination pair="País">
+			<Results>Continente</Results>
+		</Combination>		
+		<Combination pair="Dragón">
+			<Results>China</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Ciudad">
+		<Combination pair="Ciudad">
+			<Results>País</Results>
+		</Combination>
+        <Combination pair="Moda">
+			<Results>París</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Faro">	
+	</Element>		
+	
+	<Element name="Rascacielo">
+		<Combination pair="Rascacielo">
+			<Results>Ciudad</Results>
+		</Combination>	
+		<Combination pair="Luz">
+			<Results>Faro</Results>
+		</Combination>			
+	</Element>	
+	
+	<Element name="Cemento">
+		<Combination pair="Agua">
+			<Results>Concreto</Results>
+		</Combination>	
+		<Combination pair="Concreto">
+			<Results>Casa</Results>
+		</Combination>			
+	</Element>	
+	
+	<Element name="Cal">
+	</Element>	
+
+	<Element name="Concreto">
+	</Element>	
+	
+	<Element name="China">
+	</Element>		
+	
+	<Element name="Concha">
+		<Combination pair="Piedra">
+			<Results>Piedra caliza</Results>
+		</Combination>	
+		<Combination pair="Arena">
+			<Results>Perla</Results>
+		</Combination>	
+		<Combination pair="Gusano">
+			<Results>Caracol</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Piedra caliza">
+		<Combination pair="Arcilla">
+			<Results>Cemento</Results>
+		</Combination>
+		<Combination pair="Fuego">
+			<Results>Cal</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Pantano" >
+		<Combination pair="Vida">
+			<Results>Bacteria</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Plancton" >
+		<Combination pair="Tierra">
+			<Results>Gusano</Results>
+		</Combination>	
+		<Combination pair="Bacteria">
+			<Results>Pez</Results>
+		</Combination>
+		<Combination pair="Pez">
+			<Results>Ballena</Results>
+		</Combination>
+		<Combination pair="Piedra">
+			<Results>Concha</Results>
+		</Combination>		
+	</Element>		
+
+	<Element name="Ballena" >
+		<Combination pair="Tierra">
+			<Results>Elefante</Results>
+		</Combination>
+	</Element>	
+	
+	<Element name="Pájaro">
+		<Combination pair="Hielo">
+			<Results>Pinguino</Results>
+		</Combination>			
+		<Combination pair="Fuego">
+			<Results>Ave Fenix</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Serpiente" >
+		<Combination pair="Gusano">
+			<Results>Lagartija</Results>
+		</Combination>	
+		<Combination pair="Electricidad">
+			<Results>Anguila eléctrica</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Salamandra">
+	</Element>	
+	
+	<Element name="Carro de madera">
+	</Element>		
+	
+	<Element name="Dragón">
+		<Combination pair="Guerrero">
+			<Results>Héroe</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Panda">
+	</Element>		
+	
+	<Element name="Pinocho">
+	</Element>			
+	
+	<Element name="Volcán">
+	</Element>			
+	
+	<Element name="Estaca">
+		<Combination pair="Vampiro">
+			<Results>Cadáver</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Silicio">
+		<Combination pair="Electricidad">
+			<Results>Transistor</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Madera">	
+		<Combination pair="Agua">
+			<Results>Bote</Results>
+		</Combination>		
+		<Combination pair="Vida">
+			<Results>Pinocho</Results>
+		</Combination>				
+		<Combination pair="Tierra">
+			<Results>Uvas</Results>
+		</Combination>	
+		<Combination pair="Cuchillo">
+			<Results>Estaca</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Barco de madera">
+		<Combination pair="Tela">
+			<Results>Velero grande</Results>
+		</Combination>	
+		<Combination pair="Motor de vapor">
+			<Results>Barco de vapor</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Barco de vapor">	
+	</Element>			
+	
+	<Element name="Tifón">	
+	</Element>		
+	
+	<Element name="Velero pequeño">	
+	</Element>			
+	
+	<Element name="Almohada">	
+	</Element>		
+	
+	<Element name="Bote">	
+		<Combination pair="Madera">
+			<Results>Barco de madera</Results>
+		</Combination>		
+		<Combination pair="Tela">
+			<Results>Velero pequeño</Results>
+		</Combination>	
+		<Combination pair="Motor de combustión">
+			<Results>Lancha</Results>
+		</Combination>		
+	</Element>		
+
+	<Element name="Lancha">	
+	</Element>		
+	
+	<Element name="Árbol">
+		<Combination pair="Luz">
+			<Results>Árbol de navidad</Results>
+		</Combination>		
+		<Combination pair="Árbol">
+			<Results>Arboleda</Results>
+		</Combination>		
+		<Combination pair="Fuego">
+			<Results>Carbón, Ceniza</Results>
+		</Combination>		
+		<Combination pair="Herramienta">
+			<Results>Madera</Results>
+		</Combination>
+		<Combination pair="Campesino">
+			<Results>Fruta</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Arboleda">
+		<Combination pair="Arboleda">
+			<Results>Bosque</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Robin Hood">
+		<Combination pair="Armas">
+			<Results>Arco</Results>
+		</Combination>	
+	</Element>
+	
+	<Element name="Arco">
+	</Element>	
+	
+	<Element name="Bosque">
+		<Combination pair="Héroe">
+			<Results>Robin Hood</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Díamante">
+	</Element>		
+	
+	<Element name="Díamante bruto">
+		<Combination pair="Herramienta">
+			<Results>Díamante</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Carbón">
+		<Combination pair="Presión">
+			<Results>Díamante bruto</Results>
+		</Combination>	
+	</Element>		
+	
+	<Element name="Ceniza">
+		<Combination pair="Grasa">
+			<Results>Jabón</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Papel">
+	</Element>		
+
+	<Element name="Moho">
+		<Combination pair="Tierra">
+			<Results>Hierba</Results>
+		</Combination>		
+	</Element>	
+
+	<Element name="Hierba">
+		<Combination pair="Ganado">
+			<Results>Leche, Estiercol, Ganado</Results>
+		</Combination>	
+		<Combination pair="Pantano">
+			<Results>Caña</Results>
+		</Combination>	
+	</Element>				
+	
+	<Element name="Estiercol">
+	</Element>	
+	
+	<Element name="Música">
+	</Element>	
+
+	<Element name="Oro">
+	</Element>		
+	
+	<Element name="Piedra filosofal">
+		<Combination pair="Plata">
+			<Results>Oro</Results>
+		</Combination>			
+	</Element>		
+	
+	<Element name="Filosofía">
+		<Combination pair="Piedra">
+			<Results>Piedra filosofal</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Motor de vapor">
+		<Combination pair="Gasolina">
+			<Results>Motor de combustión</Results>
+		</Combination>		
+		<Combination pair="Metal">
+			<Results>Tren</Results>
+		</Combination>			
+	</Element>		
+
+	<Element name="Motor de combustión">
+		<Combination pair="Carro de madera">
+			<Results>Automóvil</Results>
+		</Combination>		
+	</Element>		
+
+	<Element name="Caldera">
+		<Combination pair="Carbón">
+			<Results>Motor de vapor</Results>
+		</Combination>		
+	</Element>	
+
+	<Element name="Rueda">
+		<Combination pair="Rueda">
+			<Results>Bicicleta</Results>
+		</Combination>		
+		<Combination pair="Madera">
+			<Results>Carro de madera</Results>
+		</Combination>			
+	</Element>
+	
+	<Element name="Batman">
+	</Element>		
+	
+	<Element name="Grasa">
+	</Element>
+
+	<Element name="Tostadas">
+	</Element>	
+	
+	<Element name="Cerdo">
+		<Combination pair="Fuego">
+			<Results>Tocino</Results>
+		</Combination>		
+		<Combination pair="Hombre">
+			<Results>Carne, Grasa</Results>
+		</Combination>			
+	</Element>			
+	
+	<Element name="Murciélago">
+		<Combination pair="Hombre">
+			<Results>Batman</Results>
+		</Combination>		
+	</Element>	
+
+	<Element name="Vampiro">
+		<Combination pair="Bestia">
+			<Results>Hombre lobo</Results>
+		</Combination>		
+		<Combination pair="Pájaro">
+			<Results>Murciélago</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Cazador">
+		<Combination pair="Pájaro">
+			<Results>Pluma, Carne, Sangre, Cazador</Results>
+		</Combination>	
+	</Element>	
+	
+	<Element name="Tierra" >
+		<Combination pair="Fuego">
+			<Results>Lava</Results>
+		</Combination>
+		<Combination pair="Tierra">
+			<Results>Presión</Results>
+		</Combination>		
+		<Combination pair="Semilla">
+			<Results>Árbol</Results>
+		</Combination>	
+		<Combination pair="Campesino">
+			<Results>Campo de arado</Results>
+		</Combination>	
+	</Element>				
+	
+	<Element name="Transistor">
+		<Combination pair="Transistor">
+			<Results>Microchip</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Caña">
+		<Combination pair="Herramienta">
+			<Results>Papel</Results>
+		</Combination>		
+		<Combination pair="Cal">
+			<Results>Azúcar</Results>
+		</Combination>				
+	</Element>	
+
+	<Element name="Azúcar">	
+		<Combination pair="Fuego">
+			<Results>Caramelo</Results>
+		</Combination>		
+	</Element>	
+	
+	<Element name="Caramelo">	
+	</Element>		
+	
+	<Element name="Museo">	
+		<Combination pair="Bestia">
+			<Results>Zoológico</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Zoológico">	
+	</Element>		
+	
+	<Element name="Vida" >	
+		<Combination pair="Huevo">
+			<Results>Pollo</Results>
+		</Combination>		
+		<Combination pair="Agua">
+			<Results>Alga</Results>
+		</Combination>			
+		<Combination pair="Tierra">
+			<Results>Semilla, Plantas</Results>
+		</Combination>			
+	</Element>			
+
+	<Element name="Vapor" >
+		<Combination pair="Metal">
+			<Results>Caldera</Results>
+		</Combination>		
+	</Element>		
+	
+	<Element name="Vodka">
+	</Element>		
+	
+	<Element name="Viento">
+	</Element>	
+	
+	
+	
+	
+	<Element name="País">
+		<Combination pair="Agua">
+			<Results>Holanda</Results>
+		</Combination>	
+		<Combination pair="Religión">
+			<Results>Vaticano</Results>
+		</Combination>
+		<Combination pair="Vodka">
+			<Results>Rusia</Results>
+		</Combination>
+		<Combination pair="Tractor">
+			<Results>Belarus</Results>
+		</Combination>
+		<Combination pair="Ciencia">
+			<Results>Alemania</Results>
+		</Combination>
+		<Combination pair="Azúcar">
+			<Results>Cuba</Results>
+		</Combination>
+		<Combination pair="Petróleo">
+			<Results>Venezuela</Results>
+		</Combination>
+	</Element>	
+	
+	<Element name="Incendio">
+		<Combination pair="Tifón">
+			<Results>Fenómeno</Results>
+		</Combination>
+	</Element>
+	
+	<Element name="Campesino">
+		<Combination pair="Semilla">
+			<Results>Algodón</Results>
+		</Combination>
+	</Element>
+	
+	<Element name="Algodón">
+		<Combination pair="Herramienta">
+			<Results>Tela</Results>
+		</Combination>
+	</Element>
+	
+	<Element name="Abeja">
+		<Combination pair="Agricultura">
+			<Results>Apicultura</Results>
+		</Combination>
+	</Element>
+	
+    <Element name="Ciencia">
+		<Combination pair="Vida">
+			<Results>Biología</Results>
+		</Combination>
+		<Combination pair="Plantas">
+			<Results>Botánica</Results>
+		</Combination>
+		<Combination pair="Agricultura">
+			<Results>Agronomía</Results>
+		</Combination>
+		<Combination pair="Ganado">
+			<Results>Agronomía</Results>
+		</Combination>
+		<Combination pair="Planeta">
+			<Results>Brújula, Astronomía</Results>
+		</Combination>
+		<Combination pair="Estrella">
+			<Results>Astronomía</Results>
+		</Combination>
+		
+	<Element name="Plantas">
+		<Combination pair="Bacteria">
+			<Results>Alcohol</Results>
+		</Combination>
+	</Element>	
+	</Element>
+
+	<Element name="Religión">
+		<Combination pair="Ciencia">
+			<Results>Dilema</Results>
+		</Combination>
+		<Combination pair="Agricultura">
+			<Results>Papa</Results>
+		</Combination>
+	</Element>
+	
+	<Element name="Planeta">
+		<Combination pair="Sol">
+			<Results>Día, Sistema solar</Results>
+		</Combination>		
+	</Element>
+	
+	<Element name="Día">
+		<Combination pair="Tiempo">
+			<Results>Noche</Results>
+		</Combination>		
+	</Element>
+	
+	<Element name="Noche">
+		<Combination pair="Luz">
+			<Results>Luna, Estrella</Results>
+		</Combination>		
+	</Element>
+	
+	<Element name="Imagen">
+		<Combination pair="Sonido">
+			<Results>TV</Results>
+		</Combination>		
+	</Element>
+	
+	<Element name="TV">		
+	</Element>
+	
+	<Element name="Estrella">
+		<Combination pair="Estrella">
+			<Results>Constelación</Results>
+		</Combination>
+		<Combination pair="Sol">
+			<Results>Constelación</Results>
+		</Combination>		
+	</Element>
+	
+	<Element name="Constelación">
+		<Combination pair="Idea">
+			<Results>Astrología</Results>
+		</Combination>		
+	</Element>
+	
+	
+	
+	
+	
+	
+	<Element name="Religión">
+	</Element>
+	<Element name="Tractor">
+	</Element>
+	<Element name="Holanda">
+	</Element>
+	<Element name="Vaticano">
+	</Element>
+	<Element name="Rusia">
+	</Element>
+	<Element name="Belarus">
+	</Element>
+	<Element name="Cuba">
+	</Element>
+	<Element name="Venezuela">
+	</Element>
+	<Element name="Lluvia">
+	</Element>
+	<Element name="Incendio">
+	</Element>
+	<Element name="Fenómeno">
+	</Element>
+	<Element name="Agricultura">
+	</Element>
+	<Element name="Plástico">
+	</Element>
+	<Element name="Algodón">
+	</Element>
+	<Element name="Moda">
+	</Element>
+	<Element name="París">
+	</Element>
+	<Element name="Ciencia">
+	</Element>
+	<Element name="Biología">
+	</Element>
+	<Element name="Plantas">
+	</Element>
+	<Element name="Agronomía">
+	</Element>
+	<Element name="Botánica">
+	</Element>
+	<Element name="Apicultura">
+	</Element>
+	<Element name="Papa">
+	</Element>
+	<Element name="Día">
+	</Element>
+	<Element name="Noche">
+	</Element>
+	<Element name="Estrella">
+	</Element>
+	<Element name="Brújula">
+	</Element>
+	<Element name="Imagen">
+	</Element>
+	<Element name="TV">
+	</Element>
+	<Element name="Alemania">
+	</Element>
+	<Element name="Astronomía">
+	</Element>
+	<Element name="Tormenta solar">
+	</Element>
+	<Element name="Sistema solar">
+	</Element>
+	<Element name="Constelación">
+	</Element>
+	<Element name="Astrología">
+	</Element>
+
+	
+	
+	
+</Elements>
